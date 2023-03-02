@@ -8,7 +8,7 @@ Projeto feito pela RocketSeat, uma aplicação para marcar hábitos diários a s
 
 - Botão para abrir um Modal para criação de novos hábitos
 - Preview em tempo real
-- Mudança de cores da tarefa com base no seu progresso, utilizando uma escala de cores diferentes.
+- Alteração nas cores dos blocos que representa cada dia com sua respectiva tarefa, com base no seu progresso.
 - Armazena os hábitos do usuário em um banco de dados.
 
 
